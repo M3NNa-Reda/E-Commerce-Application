@@ -1,0 +1,272 @@
+[
+    {
+
+        "Code": "SAVE10",
+        "Percentage": 12.61,
+        "ExpiresAt": "2024-11-20",
+        "IsActive": true,
+        "MaxUses": 401,
+        "CurrentUses": 29
+    },
+    {
+
+        "Code": "SAVE20",
+        "Percentage": 33.66,
+        "ExpiresAt": "2025-03-03",
+        "IsActive": false,
+        "MaxUses": 363,
+        "CurrentUses": 25
+    },
+    {
+
+        "Code": "WELCOME15",
+        "Percentage": 34.24,
+        "ExpiresAt": "2025-01-24",
+        "IsActive": true,
+        "MaxUses": 485,
+        "CurrentUses": 33
+    },
+    {
+
+        "Code": "FLASH25",
+        "Percentage": 6.45,
+        "ExpiresAt": "2024-11-06",
+        "IsActive": true,
+        "MaxUses": 97,
+        "CurrentUses": 20
+    },
+    {
+
+        "Code": "VIP30",
+        "Percentage": 14.91,
+        "ExpiresAt": "2025-01-23",
+        "IsActive": false,
+        "MaxUses": 128,
+        "CurrentUses": 4
+    },
+    {
+
+        "Code": "STUDENT10",
+        "Percentage": 19.05,
+        "ExpiresAt": "2025-07-31",
+        "IsActive": true,
+        "MaxUses": 140,
+        "CurrentUses": 29
+    },
+    {
+
+        "Code": "RAMADAN20",
+        "Percentage": 28.44,
+        "ExpiresAt": "2025-08-14",
+        "IsActive": true,
+        "MaxUses": 245,
+        "CurrentUses": 32
+    },
+    {
+
+        "Code": "EID15",
+        "Percentage": 22.75,
+        "ExpiresAt": "2025-05-24",
+        "IsActive": true,
+        "MaxUses": 228,
+        "CurrentUses": 49
+    },
+    {
+
+        "Code": "SUMMER25",
+        "Percentage": 14.42,
+        "ExpiresAt": "2025-04-26",
+        "IsActive": true,
+        "MaxUses": 312,
+        "CurrentUses": 11
+    },
+    {
+
+        "Code": "BACK2SCHOOL",
+        "Percentage": 11.83,
+        "ExpiresAt": "2025-01-10",
+        "IsActive": false,
+        "MaxUses": 461,
+        "CurrentUses": 40
+    },
+    {
+
+        "Code": "NEWUSER10",
+        "Percentage": 28.12,
+        "ExpiresAt": "2025-10-30",
+        "IsActive": false,
+        "MaxUses": 339,
+        "CurrentUses": 38
+    },
+    {
+
+        "Code": "LOYALTY20",
+        "Percentage": 27.85,
+        "ExpiresAt": "2025-05-12",
+        "IsActive": true,
+        "MaxUses": 96,
+        "CurrentUses": 30
+    },
+    {
+
+        "Code": "WEEKEND15",
+        "Percentage": 39.14,
+        "ExpiresAt": "2024-09-17",
+        "IsActive": false,
+        "MaxUses": 426,
+        "CurrentUses": 35
+    },
+    {
+
+        "Code": "CLEARANCE30",
+        "Percentage": 5.49,
+        "ExpiresAt": "2025-05-17",
+        "IsActive": true,
+        "MaxUses": 269,
+        "CurrentUses": 31
+    },
+    {
+
+        "Code": "TECH10",
+        "Percentage": 25.47,
+        "ExpiresAt": "2024-07-22",
+        "IsActive": true,
+        "MaxUses": 199,
+        "CurrentUses": 45
+    },
+    {
+
+        "Code": "FASHION15",
+        "Percentage": 35.72,
+        "ExpiresAt": "2024-06-02",
+        "IsActive": false,
+        "MaxUses": 300,
+        "CurrentUses": 44
+    },
+    {
+
+        "Code": "BOOKS20",
+        "Percentage": 39.2,
+        "ExpiresAt": "2025-08-19",
+        "IsActive": true,
+        "MaxUses": 457,
+        "CurrentUses": 30
+    },
+    {
+
+        "Code": "SPORTS25",
+        "Percentage": 34.53,
+        "ExpiresAt": "2025-10-24",
+        "IsActive": false,
+        "MaxUses": 202,
+        "CurrentUses": 20
+    },
+    {
+
+        "Code": "HOME10",
+        "Percentage": 7.77,
+        "ExpiresAt": "2025-05-23",
+        "IsActive": false,
+        "MaxUses": 184,
+        "CurrentUses": 36
+    },
+    {
+
+        "Code": "BUNDLE20",
+        "Percentage": 13.68,
+        "ExpiresAt": "2025-02-14",
+        "IsActive": true,
+        "MaxUses": 283,
+        "CurrentUses": 40
+    },
+    {
+
+        "Code": "REFER15",
+        "Percentage": 29.37,
+        "ExpiresAt": "2025-03-20",
+        "IsActive": true,
+        "MaxUses": 313,
+        "CurrentUses": 16
+    },
+    {
+
+        "Code": "FIRSTORDER",
+        "Percentage": 33.79,
+        "ExpiresAt": "2025-06-07",
+        "IsActive": false,
+        "MaxUses": 378,
+        "CurrentUses": 25
+    },
+    {
+
+        "Code": "MEGA30",
+        "Percentage": 28.61,
+        "ExpiresAt": "2024-12-01",
+        "IsActive": false,
+        "MaxUses": 252,
+        "CurrentUses": 20
+    },
+    {
+
+        "Code": "DAILY10",
+        "Percentage": 23.07,
+        "ExpiresAt": "2025-05-31",
+        "IsActive": true,
+        "MaxUses": 93,
+        "CurrentUses": 27
+    },
+    {
+
+        "Code": "WEEKLY20",
+        "Percentage": 20.85,
+        "ExpiresAt": "2024-12-20",
+        "IsActive": false,
+        "MaxUses": 63,
+        "CurrentUses": 36
+    },
+    {
+
+        "Code": "MONTHLY25",
+        "Percentage": 24.65,
+        "ExpiresAt": "2024-07-03",
+        "IsActive": false,
+        "MaxUses": 95,
+        "CurrentUses": 4
+    },
+    {
+
+        "Code": "SEASONAL15",
+        "Percentage": 27.94,
+        "ExpiresAt": "2025-04-09",
+        "IsActive": true,
+        "MaxUses": 483,
+        "CurrentUses": 24
+    },
+    {
+
+        "Code": "CLOSING40",
+        "Percentage": 36.85,
+        "ExpiresAt": "2024-09-12",
+        "IsActive": true,
+        "MaxUses": 349,
+        "CurrentUses": 43
+    },
+    {
+
+        "Code": "PREMIUM20",
+        "Percentage": 7.21,
+        "ExpiresAt": "2025-07-15",
+        "IsActive": false,
+        "MaxUses": 186,
+        "CurrentUses": 15
+    },
+    {
+
+        "Code": "ELITE25",
+        "Percentage": 12.26,
+        "ExpiresAt": "2025-07-30",
+        "IsActive": false,
+        "MaxUses": 496,
+        "CurrentUses": 8
+    }
+]

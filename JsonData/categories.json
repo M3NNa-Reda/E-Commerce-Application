@@ -1,0 +1,122 @@
+[
+    {
+
+        "Name": "Electronics",
+        "Slug": "electronics",
+        "ParentCategoryId": null
+    },
+    {
+
+        "Name": "Mobile Phones",
+        "Slug": "mobile-phones",
+        "ParentCategoryId": 1
+    },
+    {
+
+        "Name": "Laptops",
+        "Slug": "laptops",
+        "ParentCategoryId": 1
+    },
+    {
+
+        "Name": "Tablets",
+        "Slug": "tablets",
+        "ParentCategoryId": 1
+    },
+    {
+
+        "Name": "Audio & Headphones",
+        "Slug": "audio-headphones",
+        "ParentCategoryId": 1
+    },
+    {
+
+        "Name": "Cameras",
+        "Slug": "cameras",
+        "ParentCategoryId": 1
+    },
+    {
+
+        "Name": "Smart Watches",
+        "Slug": "smart-watches",
+        "ParentCategoryId": 1
+    },
+    {
+
+        "Name": "TV & Displays",
+        "Slug": "tv-displays",
+        "ParentCategoryId": 1
+    },
+    {
+
+        "Name": "Gaming",
+        "Slug": "gaming",
+        "ParentCategoryId": 1
+    },
+    {
+
+        "Name": "Networking",
+        "Slug": "networking",
+        "ParentCategoryId": 1
+    },
+    {
+
+        "Name": "Clothing",
+        "Slug": "clothing",
+        "ParentCategoryId": null
+    },
+    {
+
+        "Name": "Mens Wear",
+        "Slug": "mens-wear",
+        "ParentCategoryId": 11
+    },
+    {
+
+        "Name": "Womens Wear",
+        "Slug": "womens-wear",
+        "ParentCategoryId": 11
+    },
+    {
+
+        "Name": "Kids Clothing",
+        "Slug": "kids-clothing",
+        "ParentCategoryId": 11
+    },
+    {
+
+        "Name": "Sportswear",
+        "Slug": "sportswear",
+        "ParentCategoryId": 11
+    },
+    {
+
+        "Name": "Home & Living",
+        "Slug": "home-living",
+        "ParentCategoryId": null
+    },
+    {
+
+        "Name": "Furniture",
+        "Slug": "furniture",
+        "ParentCategoryId": 16
+    },
+    {
+
+        "Name": "Kitchen",
+        "Slug": "kitchen",
+        "ParentCategoryId": 16
+    },
+    {
+
+        "Name": "Books",
+        "Slug": "books",
+        "ParentCategoryId": null
+    },
+    {
+
+        "Name": "Sports & Outdoors",
+        "Slug": "sports-outdoors",
+        "ParentCategoryId": null
+    }
+]

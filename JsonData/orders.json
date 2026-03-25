@@ -1,0 +1,1202 @@
+[
+    {
+
+        "CustomerId": 24,
+        "Status": "Shipped",
+        "TotalAmount": 41539.16,
+        "PlacedAt": "2023-09-02",
+        "ShippedAt": "2024-04-16"
+    },
+    {
+
+        "CustomerId": 84,
+        "Status": "Shipped",
+        "TotalAmount": 19765.21,
+        "PlacedAt": "2024-07-17",
+        "ShippedAt": "2024-07-12"
+    },
+    {
+
+        "CustomerId": 110,
+        "Status": "Delivered",
+        "TotalAmount": 11849.99,
+        "PlacedAt": "2023-04-05",
+        "ShippedAt": "2024-04-01"
+    },
+    {
+
+        "CustomerId": 101,
+        "Status": "Refunded",
+        "TotalAmount": 31824.65,
+        "PlacedAt": "2023-06-08",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 93,
+        "Status": "Delivered",
+        "TotalAmount": 16869.77,
+        "PlacedAt": "2023-07-17",
+        "ShippedAt": "2024-12-14"
+    },
+    {
+
+        "CustomerId": 28,
+        "Status": "Refunded",
+        "TotalAmount": 4955.39,
+        "PlacedAt": "2024-11-08",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 102,
+        "Status": "Pending",
+        "TotalAmount": 19380.65,
+        "PlacedAt": "2024-01-10",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 69,
+        "Status": "Shipped",
+        "TotalAmount": 34025.07,
+        "PlacedAt": "2024-11-17",
+        "ShippedAt": "2024-05-30"
+    },
+    {
+
+        "CustomerId": 115,
+        "Status": "Delivered",
+        "TotalAmount": 11141.17,
+        "PlacedAt": "2023-06-04",
+        "ShippedAt": "2024-03-31"
+    },
+    {
+
+        "CustomerId": 36,
+        "Status": "Cancelled",
+        "TotalAmount": 23161.14,
+        "PlacedAt": "2024-09-23",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 56,
+        "Status": "Shipped",
+        "TotalAmount": 2072.73,
+        "PlacedAt": "2024-10-10",
+        "ShippedAt": "2024-11-22"
+    },
+    {
+
+        "CustomerId": 52,
+        "Status": "Delivered",
+        "TotalAmount": 32762.45,
+        "PlacedAt": "2024-02-18",
+        "ShippedAt": "2024-04-17"
+    },
+    {
+
+        "CustomerId": 74,
+        "Status": "Delivered",
+        "TotalAmount": 45081.31,
+        "PlacedAt": "2023-12-07",
+        "ShippedAt": "2024-08-16"
+    },
+    {
+
+        "CustomerId": 71,
+        "Status": "Refunded",
+        "TotalAmount": 44783.9,
+        "PlacedAt": "2023-05-18",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 99,
+        "Status": "Pending",
+        "TotalAmount": 53037.9,
+        "PlacedAt": "2023-08-01",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 53,
+        "Status": "Cancelled",
+        "TotalAmount": 41682.32,
+        "PlacedAt": "2023-09-26",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 61,
+        "Status": "Refunded",
+        "TotalAmount": 41144.71,
+        "PlacedAt": "2023-10-23",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 87,
+        "Status": "Delivered",
+        "TotalAmount": 43205.11,
+        "PlacedAt": "2023-05-23",
+        "ShippedAt": "2024-03-23"
+    },
+    {
+
+        "CustomerId": 100,
+        "Status": "Delivered",
+        "TotalAmount": 18808.64,
+        "PlacedAt": "2024-06-20",
+        "ShippedAt": "2024-11-18"
+    },
+    {
+
+        "CustomerId": 91,
+        "Status": "Cancelled",
+        "TotalAmount": 10900.94,
+        "PlacedAt": "2023-05-12",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 32,
+        "Status": "Delivered",
+        "TotalAmount": 2229.72,
+        "PlacedAt": "2024-05-28",
+        "ShippedAt": "2024-02-12"
+    },
+    {
+
+        "CustomerId": 115,
+        "Status": "Delivered",
+        "TotalAmount": 30835.89,
+        "PlacedAt": "2024-04-24",
+        "ShippedAt": "2024-07-06"
+    },
+    {
+
+        "CustomerId": 7,
+        "Status": "Refunded",
+        "TotalAmount": 47615.7,
+        "PlacedAt": "2023-12-04",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 80,
+        "Status": "Refunded",
+        "TotalAmount": 53236.89,
+        "PlacedAt": "2023-12-12",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 84,
+        "Status": "Refunded",
+        "TotalAmount": 27549.03,
+        "PlacedAt": "2024-06-15",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 13,
+        "Status": "Refunded",
+        "TotalAmount": 46309.98,
+        "PlacedAt": "2023-06-16",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 89,
+        "Status": "Shipped",
+        "TotalAmount": 7061.32,
+        "PlacedAt": "2023-01-12",
+        "ShippedAt": "2024-04-08"
+    },
+    {
+
+        "CustomerId": 112,
+        "Status": "Refunded",
+        "TotalAmount": 28607.77,
+        "PlacedAt": "2023-01-20",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 96,
+        "Status": "Shipped",
+        "TotalAmount": 37347.38,
+        "PlacedAt": "2024-11-08",
+        "ShippedAt": "2024-06-02"
+    },
+    {
+
+        "CustomerId": 57,
+        "Status": "Delivered",
+        "TotalAmount": 23838.18,
+        "PlacedAt": "2023-05-11",
+        "ShippedAt": "2024-01-10"
+    },
+    {
+
+        "CustomerId": 7,
+        "Status": "Refunded",
+        "TotalAmount": 5731.85,
+        "PlacedAt": "2023-02-16",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 63,
+        "Status": "Refunded",
+        "TotalAmount": 9474.67,
+        "PlacedAt": "2024-08-09",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 21,
+        "Status": "Pending",
+        "TotalAmount": 19919.26,
+        "PlacedAt": "2024-10-30",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 25,
+        "Status": "Shipped",
+        "TotalAmount": 45944.26,
+        "PlacedAt": "2023-04-09",
+        "ShippedAt": "2024-06-04"
+    },
+    {
+
+        "CustomerId": 28,
+        "Status": "Shipped",
+        "TotalAmount": 8426.28,
+        "PlacedAt": "2023-10-20",
+        "ShippedAt": "2024-12-16"
+    },
+    {
+
+        "CustomerId": 45,
+        "Status": "Delivered",
+        "TotalAmount": 50349.75,
+        "PlacedAt": "2024-02-17",
+        "ShippedAt": "2024-05-21"
+    },
+    {
+
+        "CustomerId": 120,
+        "Status": "Refunded",
+        "TotalAmount": 48262.39,
+        "PlacedAt": "2023-09-10",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 20,
+        "Status": "Cancelled",
+        "TotalAmount": 33223.96,
+        "PlacedAt": "2024-01-20",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 42,
+        "Status": "Shipped",
+        "TotalAmount": 40658.07,
+        "PlacedAt": "2024-06-22",
+        "ShippedAt": "2024-01-12"
+    },
+    {
+
+        "CustomerId": 5,
+        "Status": "Cancelled",
+        "TotalAmount": 41867.36,
+        "PlacedAt": "2023-07-06",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 38,
+        "Status": "Refunded",
+        "TotalAmount": 35853.86,
+        "PlacedAt": "2023-12-06",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 59,
+        "Status": "Pending",
+        "TotalAmount": 50647.32,
+        "PlacedAt": "2023-12-29",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 7,
+        "Status": "Delivered",
+        "TotalAmount": 45194.12,
+        "PlacedAt": "2023-05-11",
+        "ShippedAt": "2024-01-12"
+    },
+    {
+
+        "CustomerId": 21,
+        "Status": "Shipped",
+        "TotalAmount": 51684.59,
+        "PlacedAt": "2023-01-28",
+        "ShippedAt": "2024-08-28"
+    },
+    {
+
+        "CustomerId": 69,
+        "Status": "Pending",
+        "TotalAmount": 43285.76,
+        "PlacedAt": "2023-03-08",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 54,
+        "Status": "Pending",
+        "TotalAmount": 21957.4,
+        "PlacedAt": "2023-08-18",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 82,
+        "Status": "Refunded",
+        "TotalAmount": 47532.8,
+        "PlacedAt": "2023-02-13",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 29,
+        "Status": "Pending",
+        "TotalAmount": 50395.19,
+        "PlacedAt": "2023-03-31",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 6,
+        "Status": "Delivered",
+        "TotalAmount": 26800.07,
+        "PlacedAt": "2024-09-09",
+        "ShippedAt": "2024-07-06"
+    },
+    {
+
+        "CustomerId": 80,
+        "Status": "Shipped",
+        "TotalAmount": 5527.7,
+        "PlacedAt": "2023-10-25",
+        "ShippedAt": "2024-11-08"
+    },
+    {
+
+        "CustomerId": 104,
+        "Status": "Cancelled",
+        "TotalAmount": 8472.02,
+        "PlacedAt": "2023-11-30",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 86,
+        "Status": "Pending",
+        "TotalAmount": 14500.44,
+        "PlacedAt": "2023-03-13",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 20,
+        "Status": "Refunded",
+        "TotalAmount": 9235.17,
+        "PlacedAt": "2023-08-29",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 55,
+        "Status": "Refunded",
+        "TotalAmount": 46652.48,
+        "PlacedAt": "2024-02-25",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 26,
+        "Status": "Pending",
+        "TotalAmount": 10348.12,
+        "PlacedAt": "2023-01-22",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 90,
+        "Status": "Refunded",
+        "TotalAmount": 29702.75,
+        "PlacedAt": "2023-04-24",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 113,
+        "Status": "Pending",
+        "TotalAmount": 16146.5,
+        "PlacedAt": "2024-12-14",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 100,
+        "Status": "Pending",
+        "TotalAmount": 51694.4,
+        "PlacedAt": "2023-08-21",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 49,
+        "Status": "Cancelled",
+        "TotalAmount": 14915.52,
+        "PlacedAt": "2023-05-14",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 2,
+        "Status": "Delivered",
+        "TotalAmount": 17187.07,
+        "PlacedAt": "2024-10-08",
+        "ShippedAt": "2024-11-11"
+    },
+    {
+
+        "CustomerId": 5,
+        "Status": "Shipped",
+        "TotalAmount": 53989.13,
+        "PlacedAt": "2023-12-12",
+        "ShippedAt": "2024-07-21"
+    },
+    {
+
+        "CustomerId": 20,
+        "Status": "Cancelled",
+        "TotalAmount": 12949.68,
+        "PlacedAt": "2023-02-01",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 107,
+        "Status": "Refunded",
+        "TotalAmount": 10714.46,
+        "PlacedAt": "2023-10-13",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 71,
+        "Status": "Delivered",
+        "TotalAmount": 45731.36,
+        "PlacedAt": "2024-11-14",
+        "ShippedAt": "2024-07-20"
+    },
+    {
+
+        "CustomerId": 111,
+        "Status": "Delivered",
+        "TotalAmount": 50098.07,
+        "PlacedAt": "2023-12-23",
+        "ShippedAt": "2024-05-15"
+    },
+    {
+
+        "CustomerId": 107,
+        "Status": "Delivered",
+        "TotalAmount": 19228.76,
+        "PlacedAt": "2024-09-18",
+        "ShippedAt": "2024-07-26"
+    },
+    {
+
+        "CustomerId": 27,
+        "Status": "Shipped",
+        "TotalAmount": 36687.49,
+        "PlacedAt": "2024-10-04",
+        "ShippedAt": "2024-06-19"
+    },
+    {
+
+        "CustomerId": 59,
+        "Status": "Refunded",
+        "TotalAmount": 19410.03,
+        "PlacedAt": "2023-10-16",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 35,
+        "Status": "Delivered",
+        "TotalAmount": 21989.66,
+        "PlacedAt": "2023-06-17",
+        "ShippedAt": "2024-07-24"
+    },
+    {
+
+        "CustomerId": 33,
+        "Status": "Delivered",
+        "TotalAmount": 10546.71,
+        "PlacedAt": "2023-02-07",
+        "ShippedAt": "2024-10-03"
+    },
+    {
+
+        "CustomerId": 23,
+        "Status": "Pending",
+        "TotalAmount": 8719,
+        "PlacedAt": "2024-06-17",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 61,
+        "Status": "Delivered",
+        "TotalAmount": 21999.94,
+        "PlacedAt": "2024-04-21",
+        "ShippedAt": "2024-04-17"
+    },
+    {
+
+        "CustomerId": 43,
+        "Status": "Pending",
+        "TotalAmount": 24668.03,
+        "PlacedAt": "2024-06-22",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 112,
+        "Status": "Shipped",
+        "TotalAmount": 6106.41,
+        "PlacedAt": "2024-08-31",
+        "ShippedAt": "2024-02-26"
+    },
+    {
+
+        "CustomerId": 15,
+        "Status": "Cancelled",
+        "TotalAmount": 14230.92,
+        "PlacedAt": "2023-07-21",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 8,
+        "Status": "Pending",
+        "TotalAmount": 39420.47,
+        "PlacedAt": "2023-07-11",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 28,
+        "Status": "Delivered",
+        "TotalAmount": 22573.54,
+        "PlacedAt": "2024-02-06",
+        "ShippedAt": "2024-11-10"
+    },
+    {
+
+        "CustomerId": 106,
+        "Status": "Refunded",
+        "TotalAmount": 21999.35,
+        "PlacedAt": "2023-07-09",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 104,
+        "Status": "Pending",
+        "TotalAmount": 33744.03,
+        "PlacedAt": "2024-06-20",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 32,
+        "Status": "Cancelled",
+        "TotalAmount": 6612.54,
+        "PlacedAt": "2024-08-16",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 75,
+        "Status": "Refunded",
+        "TotalAmount": 14196.94,
+        "PlacedAt": "2024-07-27",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 75,
+        "Status": "Refunded",
+        "TotalAmount": 504.61,
+        "PlacedAt": "2024-04-02",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 87,
+        "Status": "Refunded",
+        "TotalAmount": 35840.6,
+        "PlacedAt": "2023-10-04",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 40,
+        "Status": "Shipped",
+        "TotalAmount": 790.23,
+        "PlacedAt": "2024-10-29",
+        "ShippedAt": "2024-08-24"
+    },
+    {
+
+        "CustomerId": 116,
+        "Status": "Delivered",
+        "TotalAmount": 31002.95,
+        "PlacedAt": "2024-10-13",
+        "ShippedAt": "2024-04-02"
+    },
+    {
+
+        "CustomerId": 57,
+        "Status": "Pending",
+        "TotalAmount": 31270.13,
+        "PlacedAt": "2023-07-02",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 68,
+        "Status": "Cancelled",
+        "TotalAmount": 322.05,
+        "PlacedAt": "2023-01-23",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 1,
+        "Status": "Shipped",
+        "TotalAmount": 48907.88,
+        "PlacedAt": "2023-10-26",
+        "ShippedAt": "2024-04-09"
+    },
+    {
+
+        "CustomerId": 111,
+        "Status": "Shipped",
+        "TotalAmount": 42661.22,
+        "PlacedAt": "2024-07-14",
+        "ShippedAt": "2024-09-22"
+    },
+    {
+
+        "CustomerId": 13,
+        "Status": "Delivered",
+        "TotalAmount": 40252.13,
+        "PlacedAt": "2024-08-01",
+        "ShippedAt": "2024-01-01"
+    },
+    {
+
+        "CustomerId": 114,
+        "Status": "Refunded",
+        "TotalAmount": 5715.56,
+        "PlacedAt": "2023-03-07",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 1,
+        "Status": "Cancelled",
+        "TotalAmount": 2701.05,
+        "PlacedAt": "2023-01-22",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 67,
+        "Status": "Delivered",
+        "TotalAmount": 51203.62,
+        "PlacedAt": "2024-07-20",
+        "ShippedAt": "2024-01-08"
+    },
+    {
+
+        "CustomerId": 115,
+        "Status": "Refunded",
+        "TotalAmount": 54604.31,
+        "PlacedAt": "2023-01-09",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 72,
+        "Status": "Pending",
+        "TotalAmount": 23023.58,
+        "PlacedAt": "2024-01-30",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 75,
+        "Status": "Refunded",
+        "TotalAmount": 40385.72,
+        "PlacedAt": "2024-09-03",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 27,
+        "Status": "Shipped",
+        "TotalAmount": 32584.92,
+        "PlacedAt": "2023-10-08",
+        "ShippedAt": "2024-06-08"
+    },
+    {
+
+        "CustomerId": 86,
+        "Status": "Shipped",
+        "TotalAmount": 20340.6,
+        "PlacedAt": "2024-01-28",
+        "ShippedAt": "2024-11-24"
+    },
+    {
+
+        "CustomerId": 112,
+        "Status": "Refunded",
+        "TotalAmount": 36380.66,
+        "PlacedAt": "2023-08-24",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 51,
+        "Status": "Refunded",
+        "TotalAmount": 5519.69,
+        "PlacedAt": "2024-08-09",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 18,
+        "Status": "Delivered",
+        "TotalAmount": 15158.69,
+        "PlacedAt": "2023-06-11",
+        "ShippedAt": "2024-02-12"
+    },
+    {
+
+        "CustomerId": 38,
+        "Status": "Refunded",
+        "TotalAmount": 10372.64,
+        "PlacedAt": "2023-02-19",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 82,
+        "Status": "Pending",
+        "TotalAmount": 17759.87,
+        "PlacedAt": "2023-09-01",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 13,
+        "Status": "Pending",
+        "TotalAmount": 8668.82,
+        "PlacedAt": "2023-09-19",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 85,
+        "Status": "Pending",
+        "TotalAmount": 35824.68,
+        "PlacedAt": "2023-03-31",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 99,
+        "Status": "Shipped",
+        "TotalAmount": 6579.92,
+        "PlacedAt": "2024-07-21",
+        "ShippedAt": "2024-04-01"
+    },
+    {
+
+        "CustomerId": 35,
+        "Status": "Delivered",
+        "TotalAmount": 37119.94,
+        "PlacedAt": "2023-10-26",
+        "ShippedAt": "2024-07-14"
+    },
+    {
+
+        "CustomerId": 4,
+        "Status": "Delivered",
+        "TotalAmount": 13386.78,
+        "PlacedAt": "2023-05-25",
+        "ShippedAt": "2024-03-20"
+    },
+    {
+
+        "CustomerId": 115,
+        "Status": "Shipped",
+        "TotalAmount": 24365.75,
+        "PlacedAt": "2023-03-22",
+        "ShippedAt": "2024-01-16"
+    },
+    {
+
+        "CustomerId": 88,
+        "Status": "Pending",
+        "TotalAmount": 54156.09,
+        "PlacedAt": "2024-03-28",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 102,
+        "Status": "Cancelled",
+        "TotalAmount": 17792.08,
+        "PlacedAt": "2024-09-09",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 117,
+        "Status": "Shipped",
+        "TotalAmount": 48054.18,
+        "PlacedAt": "2023-05-07",
+        "ShippedAt": "2024-09-27"
+    },
+    {
+
+        "CustomerId": 99,
+        "Status": "Delivered",
+        "TotalAmount": 25326.98,
+        "PlacedAt": "2023-04-01",
+        "ShippedAt": "2024-04-02"
+    },
+    {
+
+        "CustomerId": 78,
+        "Status": "Refunded",
+        "TotalAmount": 18090.5,
+        "PlacedAt": "2023-12-19",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 79,
+        "Status": "Delivered",
+        "TotalAmount": 49302.44,
+        "PlacedAt": "2023-06-26",
+        "ShippedAt": "2024-04-06"
+    },
+    {
+
+        "CustomerId": 103,
+        "Status": "Delivered",
+        "TotalAmount": 21820.02,
+        "PlacedAt": "2023-02-28",
+        "ShippedAt": "2024-12-20"
+    },
+    {
+
+        "CustomerId": 7,
+        "Status": "Cancelled",
+        "TotalAmount": 20272.24,
+        "PlacedAt": "2024-07-05",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 30,
+        "Status": "Refunded",
+        "TotalAmount": 36001.43,
+        "PlacedAt": "2024-05-12",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 25,
+        "Status": "Shipped",
+        "TotalAmount": 39829.37,
+        "PlacedAt": "2024-03-26",
+        "ShippedAt": "2024-03-22"
+    },
+    {
+
+        "CustomerId": 47,
+        "Status": "Refunded",
+        "TotalAmount": 36673.57,
+        "PlacedAt": "2023-11-04",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 26,
+        "Status": "Delivered",
+        "TotalAmount": 14238.9,
+        "PlacedAt": "2023-02-19",
+        "ShippedAt": "2024-02-28"
+    },
+    {
+
+        "CustomerId": 25,
+        "Status": "Refunded",
+        "TotalAmount": 28922.48,
+        "PlacedAt": "2024-07-17",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 91,
+        "Status": "Shipped",
+        "TotalAmount": 9898.16,
+        "PlacedAt": "2023-03-14",
+        "ShippedAt": "2024-02-12"
+    },
+    {
+
+        "CustomerId": 50,
+        "Status": "Delivered",
+        "TotalAmount": 39651.08,
+        "PlacedAt": "2023-10-25",
+        "ShippedAt": "2024-07-22"
+    },
+    {
+
+        "CustomerId": 45,
+        "Status": "Pending",
+        "TotalAmount": 43814.39,
+        "PlacedAt": "2023-05-11",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 96,
+        "Status": "Pending",
+        "TotalAmount": 46640.88,
+        "PlacedAt": "2024-11-07",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 69,
+        "Status": "Delivered",
+        "TotalAmount": 296.3,
+        "PlacedAt": "2023-01-05",
+        "ShippedAt": "2024-02-12"
+    },
+    {
+
+        "CustomerId": 2,
+        "Status": "Delivered",
+        "TotalAmount": 53595.5,
+        "PlacedAt": "2024-04-12",
+        "ShippedAt": "2024-11-17"
+    },
+    {
+
+        "CustomerId": 80,
+        "Status": "Shipped",
+        "TotalAmount": 27792.23,
+        "PlacedAt": "2024-10-20",
+        "ShippedAt": "2024-10-24"
+    },
+    {
+
+        "CustomerId": 62,
+        "Status": "Refunded",
+        "TotalAmount": 3309.89,
+        "PlacedAt": "2024-04-09",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 39,
+        "Status": "Delivered",
+        "TotalAmount": 25186.54,
+        "PlacedAt": "2023-04-22",
+        "ShippedAt": "2024-05-02"
+    },
+    {
+
+        "CustomerId": 38,
+        "Status": "Refunded",
+        "TotalAmount": 33104.18,
+        "PlacedAt": "2023-09-17",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 109,
+        "Status": "Pending",
+        "TotalAmount": 11285.43,
+        "PlacedAt": "2024-10-30",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 26,
+        "Status": "Refunded",
+        "TotalAmount": 13850.6,
+        "PlacedAt": "2024-05-15",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 60,
+        "Status": "Shipped",
+        "TotalAmount": 42595.21,
+        "PlacedAt": "2023-11-08",
+        "ShippedAt": "2024-06-19"
+    },
+    {
+
+        "CustomerId": 37,
+        "Status": "Refunded",
+        "TotalAmount": 40858.62,
+        "PlacedAt": "2023-02-28",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 74,
+        "Status": "Delivered",
+        "TotalAmount": 35395.22,
+        "PlacedAt": "2023-01-08",
+        "ShippedAt": "2024-08-23"
+    },
+    {
+
+        "CustomerId": 31,
+        "Status": "Cancelled",
+        "TotalAmount": 52362.32,
+        "PlacedAt": "2024-01-23",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 62,
+        "Status": "Delivered",
+        "TotalAmount": 17744.5,
+        "PlacedAt": "2023-02-04",
+        "ShippedAt": "2024-01-26"
+    },
+    {
+
+        "CustomerId": 12,
+        "Status": "Shipped",
+        "TotalAmount": 15362.69,
+        "PlacedAt": "2023-07-18",
+        "ShippedAt": "2024-09-03"
+    },
+    {
+
+        "CustomerId": 41,
+        "Status": "Delivered",
+        "TotalAmount": 9200.72,
+        "PlacedAt": "2023-09-02",
+        "ShippedAt": "2024-03-17"
+    },
+    {
+
+        "CustomerId": 92,
+        "Status": "Delivered",
+        "TotalAmount": 44389,
+        "PlacedAt": "2024-02-25",
+        "ShippedAt": "2024-06-10"
+    },
+    {
+
+        "CustomerId": 5,
+        "Status": "Refunded",
+        "TotalAmount": 4437.93,
+        "PlacedAt": "2024-05-23",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 58,
+        "Status": "Refunded",
+        "TotalAmount": 7388.03,
+        "PlacedAt": "2024-07-02",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 76,
+        "Status": "Pending",
+        "TotalAmount": 47160.17,
+        "PlacedAt": "2024-01-01",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 43,
+        "Status": "Pending",
+        "TotalAmount": 30213.31,
+        "PlacedAt": "2024-03-25",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 8,
+        "Status": "Cancelled",
+        "TotalAmount": 45429.6,
+        "PlacedAt": "2024-08-10",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 98,
+        "Status": "Pending",
+        "TotalAmount": 41913.06,
+        "PlacedAt": "2023-02-01",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 10,
+        "Status": "Refunded",
+        "TotalAmount": 50430.59,
+        "PlacedAt": "2024-07-13",
+        "ShippedAt": null
+    },
+    {
+
+        "CustomerId": 45,
+        "Status": "Delivered",
+        "TotalAmount": 38640.3,
+        "PlacedAt": "2024-06-20",
+        "ShippedAt": "2024-01-24"
+    }
+]

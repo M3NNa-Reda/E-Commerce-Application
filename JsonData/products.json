@@ -1,0 +1,1046 @@
+﻿[
+    {
+
+        "Name": "Samsung Galaxy A54",
+        "SKU": "MOB-001",
+        "Price": 8999.99,
+        "StockQuantity": 50,
+        "CategoryId": 2,
+        "IsActive": true
+    },
+    {
+
+        "Name": "iPhone 15 Pro",
+        "SKU": "MOB-002",
+        "Price": 32999,
+        "StockQuantity": 15,
+        "CategoryId": 2,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Xiaomi Redmi Note 13",
+        "SKU": "MOB-003",
+        "Price": 5499,
+        "StockQuantity": 80,
+        "CategoryId": 2,
+        "IsActive": true
+    },
+    {
+
+        "Name": "OPPO Reno 10",
+        "SKU": "MOB-004",
+        "Price": 6799,
+        "StockQuantity": 40,
+        "CategoryId": 2,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Huawei Nova 11",
+        "SKU": "MOB-005",
+        "Price": 7299,
+        "StockQuantity": 30,
+        "CategoryId": 2,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Samsung Galaxy S24",
+        "SKU": "MOB-006",
+        "Price": 38999,
+        "StockQuantity": 12,
+        "CategoryId": 2,
+        "IsActive": true
+    },
+    {
+
+        "Name": "iPhone 14",
+        "SKU": "MOB-007",
+        "Price": 25999,
+        "StockQuantity": 20,
+        "CategoryId": 2,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Google Pixel 8",
+        "SKU": "MOB-008",
+        "Price": 22999,
+        "StockQuantity": 18,
+        "CategoryId": 2,
+        "IsActive": true
+    },
+    {
+
+        "Name": "OnePlus 12",
+        "SKU": "MOB-009",
+        "Price": 19999,
+        "StockQuantity": 25,
+        "CategoryId": 2,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Vivo V27",
+        "SKU": "MOB-010",
+        "Price": 7499,
+        "StockQuantity": 35,
+        "CategoryId": 2,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Realme 11 Pro",
+        "SKU": "MOB-011",
+        "Price": 5999,
+        "StockQuantity": 45,
+        "CategoryId": 2,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Infinix Note 30",
+        "SKU": "MOB-012",
+        "Price": 3999,
+        "StockQuantity": 60,
+        "CategoryId": 2,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Dell Inspiron 15",
+        "SKU": "LAP-001",
+        "Price": 18500,
+        "StockQuantity": 15,
+        "CategoryId": 3,
+        "IsActive": true
+    },
+    {
+
+        "Name": "HP Pavilion 14",
+        "SKU": "LAP-002",
+        "Price": 15200,
+        "StockQuantity": 0,
+        "CategoryId": 3,
+        "IsActive": false
+    },
+    {
+
+        "Name": "Lenovo IdeaPad 5",
+        "SKU": "LAP-003",
+        "Price": 16800,
+        "StockQuantity": 22,
+        "CategoryId": 3,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Asus VivoBook 15",
+        "SKU": "LAP-004",
+        "Price": 14500,
+        "StockQuantity": 18,
+        "CategoryId": 3,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Acer Aspire 5",
+        "SKU": "LAP-005",
+        "Price": 13200,
+        "StockQuantity": 30,
+        "CategoryId": 3,
+        "IsActive": true
+    },
+    {
+
+        "Name": "MacBook Air M2",
+        "SKU": "LAP-006",
+        "Price": 52000,
+        "StockQuantity": 8,
+        "CategoryId": 3,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Dell XPS 13",
+        "SKU": "LAP-007",
+        "Price": 45000,
+        "StockQuantity": 5,
+        "CategoryId": 3,
+        "IsActive": true
+    },
+    {
+
+        "Name": "HP EliteBook 840",
+        "SKU": "LAP-008",
+        "Price": 38000,
+        "StockQuantity": 10,
+        "CategoryId": 3,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Lenovo ThinkPad E14",
+        "SKU": "LAP-009",
+        "Price": 24000,
+        "StockQuantity": 14,
+        "CategoryId": 3,
+        "IsActive": true
+    },
+    {
+
+        "Name": "MSI Modern 14",
+        "SKU": "LAP-010",
+        "Price": 19500,
+        "StockQuantity": 20,
+        "CategoryId": 3,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Huawei MateBook D15",
+        "SKU": "LAP-011",
+        "Price": 17800,
+        "StockQuantity": 16,
+        "CategoryId": 3,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Samsung Galaxy Tab S9",
+        "SKU": "TAB-001",
+        "Price": 22000,
+        "StockQuantity": 20,
+        "CategoryId": 4,
+        "IsActive": true
+    },
+    {
+
+        "Name": "iPad 10th Gen",
+        "SKU": "TAB-002",
+        "Price": 19999,
+        "StockQuantity": 15,
+        "CategoryId": 4,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Lenovo Tab P12",
+        "SKU": "TAB-003",
+        "Price": 12500,
+        "StockQuantity": 25,
+        "CategoryId": 4,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Huawei MatePad 11",
+        "SKU": "TAB-004",
+        "Price": 10800,
+        "StockQuantity": 30,
+        "CategoryId": 4,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Amazon Fire HD 10",
+        "SKU": "TAB-005",
+        "Price": 4200,
+        "StockQuantity": 50,
+        "CategoryId": 4,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Sony WH-1000XM5",
+        "SKU": "AUD-001",
+        "Price": 12500,
+        "StockQuantity": 30,
+        "CategoryId": 5,
+        "IsActive": true
+    },
+    {
+
+        "Name": "AirPods Pro 2",
+        "SKU": "AUD-002",
+        "Price": 9999,
+        "StockQuantity": 25,
+        "CategoryId": 5,
+        "IsActive": true
+    },
+    {
+
+        "Name": "JBL Tune 760NC",
+        "SKU": "AUD-003",
+        "Price": 2999,
+        "StockQuantity": 60,
+        "CategoryId": 5,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Bose QC45",
+        "SKU": "AUD-004",
+        "Price": 11500,
+        "StockQuantity": 20,
+        "CategoryId": 5,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Samsung Galaxy Buds2",
+        "SKU": "AUD-005",
+        "Price": 2499,
+        "StockQuantity": 70,
+        "CategoryId": 5,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Jabra Evolve2",
+        "SKU": "AUD-006",
+        "Price": 8500,
+        "StockQuantity": 15,
+        "CategoryId": 5,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Sony ZV-E10",
+        "SKU": "CAM-001",
+        "Price": 18000,
+        "StockQuantity": 12,
+        "CategoryId": 6,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Canon EOS M50",
+        "SKU": "CAM-002",
+        "Price": 22000,
+        "StockQuantity": 8,
+        "CategoryId": 6,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Fujifilm X-T30",
+        "SKU": "CAM-003",
+        "Price": 28000,
+        "StockQuantity": 5,
+        "CategoryId": 6,
+        "IsActive": true
+    },
+    {
+
+        "Name": "GoPro HERO12",
+        "SKU": "CAM-004",
+        "Price": 15000,
+        "StockQuantity": 18,
+        "CategoryId": 6,
+        "IsActive": true
+    },
+    {
+
+        "Name": "DJI Osmo Pocket 3",
+        "SKU": "CAM-005",
+        "Price": 12500,
+        "StockQuantity": 10,
+        "CategoryId": 6,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Apple Watch Series 9",
+        "SKU": "SWT-001",
+        "Price": 18000,
+        "StockQuantity": 20,
+        "CategoryId": 7,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Samsung Galaxy Watch 6",
+        "SKU": "SWT-002",
+        "Price": 9500,
+        "StockQuantity": 25,
+        "CategoryId": 7,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Huawei Watch GT 4",
+        "SKU": "SWT-003",
+        "Price": 7200,
+        "StockQuantity": 30,
+        "CategoryId": 7,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Garmin Venu 3",
+        "SKU": "SWT-004",
+        "Price": 14000,
+        "StockQuantity": 12,
+        "CategoryId": 7,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Samsung 55 4K QLED",
+        "SKU": "TVD-001",
+        "Price": 28000,
+        "StockQuantity": 8,
+        "CategoryId": 8,
+        "IsActive": true
+    },
+    {
+
+        "Name": "LG C3 OLED 55",
+        "SKU": "TVD-002",
+        "Price": 45000,
+        "StockQuantity": 5,
+        "CategoryId": 8,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Sony Bravia XR 50",
+        "SKU": "TVD-003",
+        "Price": 32000,
+        "StockQuantity": 7,
+        "CategoryId": 8,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Hisense 50 UHD",
+        "SKU": "TVD-004",
+        "Price": 12500,
+        "StockQuantity": 20,
+        "CategoryId": 8,
+        "IsActive": true
+    },
+    {
+
+        "Name": "PS5 Console",
+        "SKU": "GAM-001",
+        "Price": 25000,
+        "StockQuantity": 6,
+        "CategoryId": 9,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Xbox Series X",
+        "SKU": "GAM-002",
+        "Price": 22000,
+        "StockQuantity": 4,
+        "CategoryId": 9,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Nintendo Switch OLED",
+        "SKU": "GAM-003",
+        "Price": 13500,
+        "StockQuantity": 15,
+        "CategoryId": 9,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Razer DeathAdder V3",
+        "SKU": "GAM-004",
+        "Price": 3200,
+        "StockQuantity": 40,
+        "CategoryId": 9,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Logitech G502 X",
+        "SKU": "GAM-005",
+        "Price": 2800,
+        "StockQuantity": 35,
+        "CategoryId": 9,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Corsair K95 Keyboard",
+        "SKU": "GAM-006",
+        "Price": 5500,
+        "StockQuantity": 20,
+        "CategoryId": 9,
+        "IsActive": true
+    },
+    {
+
+        "Name": "TP-Link Archer AX73",
+        "SKU": "NET-001",
+        "Price": 3200,
+        "StockQuantity": 40,
+        "CategoryId": 10,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Netgear Nighthawk AX8",
+        "SKU": "NET-002",
+        "Price": 5800,
+        "StockQuantity": 20,
+        "CategoryId": 10,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Huawei Router AX3",
+        "SKU": "NET-003",
+        "Price": 1800,
+        "StockQuantity": 60,
+        "CategoryId": 10,
+        "IsActive": true
+    },
+    {
+
+        "Name": "D-Link EXO AX3200",
+        "SKU": "NET-004",
+        "Price": 2900,
+        "StockQuantity": 30,
+        "CategoryId": 10,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Classic White T-Shirt",
+        "SKU": "CLO-001",
+        "Price": 199,
+        "StockQuantity": 300,
+        "CategoryId": 12,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Black Polo Shirt",
+        "SKU": "CLO-002",
+        "Price": 299,
+        "StockQuantity": 200,
+        "CategoryId": 12,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Slim Fit Jeans",
+        "SKU": "CLO-003",
+        "Price": 599,
+        "StockQuantity": 150,
+        "CategoryId": 12,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Formal Dress Shirt",
+        "SKU": "CLO-004",
+        "Price": 499,
+        "StockQuantity": 120,
+        "CategoryId": 12,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Chino Trousers",
+        "SKU": "CLO-005",
+        "Price": 449,
+        "StockQuantity": 180,
+        "CategoryId": 12,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Casual Hoodie",
+        "SKU": "CLO-006",
+        "Price": 399,
+        "StockQuantity": 220,
+        "CategoryId": 12,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Floral Maxi Dress",
+        "SKU": "CLO-007",
+        "Price": 549,
+        "StockQuantity": 130,
+        "CategoryId": 13,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Silk Blouse",
+        "SKU": "CLO-008",
+        "Price": 449,
+        "StockQuantity": 140,
+        "CategoryId": 13,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Women Skinny Jeans",
+        "SKU": "CLO-009",
+        "Price": 499,
+        "StockQuantity": 160,
+        "CategoryId": 13,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Evening Gown",
+        "SKU": "CLO-010",
+        "Price": 1299,
+        "StockQuantity": 50,
+        "CategoryId": 13,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Kids Denim Jacket",
+        "SKU": "CLO-011",
+        "Price": 349,
+        "StockQuantity": 100,
+        "CategoryId": 14,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Boys Cargo Pants",
+        "SKU": "CLO-012",
+        "Price": 249,
+        "StockQuantity": 120,
+        "CategoryId": 14,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Girls Floral Dress",
+        "SKU": "CLO-013",
+        "Price": 299,
+        "StockQuantity": 110,
+        "CategoryId": 14,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Nike Running Shoes",
+        "SKU": "SPT-001",
+        "Price": 1499,
+        "StockQuantity": 80,
+        "CategoryId": 15,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Adidas Track Pants",
+        "SKU": "SPT-002",
+        "Price": 699,
+        "StockQuantity": 90,
+        "CategoryId": 15,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Puma Sports T-Shirt",
+        "SKU": "SPT-003",
+        "Price": 349,
+        "StockQuantity": 150,
+        "CategoryId": 15,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Under Armour Hoodie",
+        "SKU": "SPT-004",
+        "Price": 899,
+        "StockQuantity": 70,
+        "CategoryId": 15,
+        "IsActive": true
+    },
+    {
+
+        "Name": "IKEA KALLAX Shelf",
+        "SKU": "FUR-001",
+        "Price": 2800,
+        "StockQuantity": 20,
+        "CategoryId": 17,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Office Chair Ergonomic",
+        "SKU": "FUR-002",
+        "Price": 3500,
+        "StockQuantity": 15,
+        "CategoryId": 17,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Standing Desk",
+        "SKU": "FUR-003",
+        "Price": 5200,
+        "StockQuantity": 10,
+        "CategoryId": 17,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Bedside Table Wooden",
+        "SKU": "FUR-004",
+        "Price": 1200,
+        "StockQuantity": 30,
+        "CategoryId": 17,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Tefal Air Fryer",
+        "SKU": "KIT-001",
+        "Price": 2200,
+        "StockQuantity": 40,
+        "CategoryId": 18,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Instant Pot Duo",
+        "SKU": "KIT-002",
+        "Price": 3100,
+        "StockQuantity": 25,
+        "CategoryId": 18,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Philips Blender",
+        "SKU": "KIT-003",
+        "Price": 850,
+        "StockQuantity": 55,
+        "CategoryId": 18,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Bosch Coffee Machine",
+        "SKU": "KIT-004",
+        "Price": 4500,
+        "StockQuantity": 12,
+        "CategoryId": 18,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Nespresso Vertuo",
+        "SKU": "KIT-005",
+        "Price": 3800,
+        "StockQuantity": 18,
+        "CategoryId": 18,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Clean Code",
+        "SKU": "BOK-001",
+        "Price": 280,
+        "StockQuantity": 100,
+        "CategoryId": 19,
+        "IsActive": true
+    },
+    {
+
+        "Name": "The Pragmatic Programmer",
+        "SKU": "BOK-002",
+        "Price": 320,
+        "StockQuantity": 80,
+        "CategoryId": 19,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Design Patterns GoF",
+        "SKU": "BOK-003",
+        "Price": 350,
+        "StockQuantity": 75,
+        "CategoryId": 19,
+        "IsActive": true
+    },
+    {
+
+        "Name": "You Dont Know JS",
+        "SKU": "BOK-004",
+        "Price": 220,
+        "StockQuantity": 90,
+        "CategoryId": 19,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Domain-Driven Design",
+        "SKU": "BOK-005",
+        "Price": 380,
+        "StockQuantity": 60,
+        "CategoryId": 19,
+        "IsActive": true
+    },
+    {
+
+        "Name": "C# in Depth Jon Skeet",
+        "SKU": "BOK-006",
+        "Price": 420,
+        "StockQuantity": 55,
+        "CategoryId": 19,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Football Size 5",
+        "SKU": "OUT-001",
+        "Price": 299,
+        "StockQuantity": 80,
+        "CategoryId": 20,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Yoga Mat Premium",
+        "SKU": "OUT-002",
+        "Price": 349,
+        "StockQuantity": 60,
+        "CategoryId": 20,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Dumbbell Set 20kg",
+        "SKU": "OUT-003",
+        "Price": 1200,
+        "StockQuantity": 25,
+        "CategoryId": 20,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Resistance Bands Set",
+        "SKU": "OUT-004",
+        "Price": 199,
+        "StockQuantity": 100,
+        "CategoryId": 20,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Cycling Helmet",
+        "SKU": "OUT-005",
+        "Price": 599,
+        "StockQuantity": 40,
+        "CategoryId": 20,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Camping Tent 4-Person",
+        "SKU": "OUT-006",
+        "Price": 2500,
+        "StockQuantity": 15,
+        "CategoryId": 20,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Trekking Poles",
+        "SKU": "OUT-007",
+        "Price": 450,
+        "StockQuantity": 30,
+        "CategoryId": 20,
+        "IsActive": true
+    },
+    {
+
+        "Name": "iPhone 15",
+        "SKU": "MOB-013",
+        "Price": 28999,
+        "StockQuantity": 10,
+        "CategoryId": 2,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Samsung Galaxy A35",
+        "SKU": "MOB-014",
+        "Price": 7299,
+        "StockQuantity": 55,
+        "CategoryId": 2,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Asus ROG Phone 7",
+        "SKU": "MOB-015",
+        "Price": 31999,
+        "StockQuantity": 8,
+        "CategoryId": 2,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Lenovo Legion Phone",
+        "SKU": "MOB-016",
+        "Price": 27500,
+        "StockQuantity": 6,
+        "CategoryId": 2,
+        "IsActive": true
+    },
+    {
+
+        "Name": "MacBook Pro M3",
+        "SKU": "LAP-012",
+        "Price": 68000,
+        "StockQuantity": 4,
+        "CategoryId": 3,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Dell G15 Gaming",
+        "SKU": "LAP-013",
+        "Price": 23500,
+        "StockQuantity": 12,
+        "CategoryId": 3,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Asus TUF Gaming A15",
+        "SKU": "LAP-014",
+        "Price": 21000,
+        "StockQuantity": 14,
+        "CategoryId": 3,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Acer Nitro 5",
+        "SKU": "LAP-015",
+        "Price": 19200,
+        "StockQuantity": 18,
+        "CategoryId": 3,
+        "IsActive": true
+    },
+    {
+
+        "Name": "HP Omen 16",
+        "SKU": "LAP-016",
+        "Price": 35000,
+        "StockQuantity": 7,
+        "CategoryId": 3,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Lenovo Yoga 7i",
+        "SKU": "LAP-017",
+        "Price": 28000,
+        "StockQuantity": 9,
+        "CategoryId": 3,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Samsung Galaxy Tab A9",
+        "SKU": "TAB-006",
+        "Price": 8500,
+        "StockQuantity": 35,
+        "CategoryId": 4,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Xiaomi Pad 6",
+        "SKU": "TAB-007",
+        "Price": 9800,
+        "StockQuantity": 28,
+        "CategoryId": 4,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Beats Studio Pro",
+        "SKU": "AUD-007",
+        "Price": 8900,
+        "StockQuantity": 22,
+        "CategoryId": 5,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Sennheiser HD 450",
+        "SKU": "AUD-008",
+        "Price": 3200,
+        "StockQuantity": 40,
+        "CategoryId": 5,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Anker Soundcore Q45",
+        "SKU": "AUD-009",
+        "Price": 1299,
+        "StockQuantity": 80,
+        "CategoryId": 5,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Marshall Major IV",
+        "SKU": "AUD-010",
+        "Price": 2800,
+        "StockQuantity": 35,
+        "CategoryId": 5,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Nikon Z30",
+        "SKU": "CAM-006",
+        "Price": 21000,
+        "StockQuantity": 9,
+        "CategoryId": 6,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Sony A6400",
+        "SKU": "CAM-007",
+        "Price": 25000,
+        "StockQuantity": 7,
+        "CategoryId": 6,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Xiaomi Mi Band 8",
+        "SKU": "SWT-005",
+        "Price": 1299,
+        "StockQuantity": 90,
+        "CategoryId": 7,
+        "IsActive": true
+    },
+    {
+
+        "Name": "Fitbit Versa 4",
+        "SKU": "SWT-006",
+        "Price": 5500,
+        "StockQuantity": 25,
+        "CategoryId": 7,
+        "IsActive": true
+    }
+]
